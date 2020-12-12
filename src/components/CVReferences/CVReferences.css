@@ -1,0 +1,49 @@
+@import url("https://fonts.googleapis.com/css2?family=Roboto&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Anton&display=swap");
+
+/* Left panel */
+
+.CVReferences {
+  color: black;
+  display: flex;
+  margin: auto;
+  position: relative;
+  background-color: lightgray;
+  width: 65%;
+  flex-direction: row;
+}
+
+.CVReferences-title {
+  background-color: lightgray;
+  width: 40%;
+  padding-top: 5%;
+}
+
+.CVReferences-headline {
+  background-color: lightgray;
+  font-family: "Anton", sans-serif;
+  font-size: 1.4em;
+  padding-top: 2%;
+  text-align: end;
+  padding-right: 5%;
+}
+
+.CVReferences-icon {
+  background-color: lightgray;
+  padding-left: 1%;
+}
+
+/* //Right panel */
+
+.CVReferences-text {
+  background-color: white;
+  font-family: "Roboto", sans-serif;
+  width: 60%;
+  padding: 5%;
+}
+
+.CVReferences-header {
+  font-size: 1em;
+  background-color: white;
+  padding-bottom: 10%;
+}

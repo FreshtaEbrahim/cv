@@ -1,0 +1,20 @@
+@import url("https://fonts.googleapis.com/css2?family=Roboto&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Anton&display=swap");
+
+.CVBio {
+  color: black;
+  display: flex;
+  margin: auto;
+  position: relative;
+  background-color: #b5838d;
+  width: 65%;
+  flex-direction: column;
+}
+
+.CVBio-text {
+  background-color: #b5838d;
+  font-family: "Roboto", sans-serif;
+  font-size: 1em;
+  text-align: center;
+  padding: 3%;
+}

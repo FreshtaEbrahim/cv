@@ -1,0 +1,79 @@
+@import url("https://fonts.googleapis.com/css2?family=Anton&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Roboto&display=swap");
+
+.CVHeader {
+  color: black;
+  display: flex;
+  margin: auto;
+  align-items: center;
+  position: relative;
+  background-color: #b5838d;
+  width: 65%;
+  flex-direction: row;
+  padding-top: 3%;
+}
+
+.CVHeader-avatar-section {
+  background-color: #b5838d;
+  flex-direction: row;
+  text-align: center;
+  width: 55%;
+}
+
+.CVHeader-avatar {
+  border-radius: 48%;
+  width: 55%;
+  background-color: #b5838d;
+  animation: rotation 12s infinite linear;
+}
+
+@keyframes rotation {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(359deg);
+  }
+}
+
+.CVHeader-fullname {
+  font-size: 2.5rem;
+  background-color: #b5838d;
+  font-family: "Anton", sans-serif;
+  flex-direction: row;
+  text-align: center;
+  width: 60%;
+}
+
+.CVHeader-profile-links {
+  color: black;
+  background-color: #b5838d;
+  font-family: "Roboto", sans-serif;
+  font-size: 0.9em;
+  flex-direction: row;
+}
+
+.CVHeader-profile-links a:link,
+a:visited,
+a:hover,
+a:active {
+  color: black;
+}
+
+li {
+  background-color: #b5838d;
+  color: #b5838d;
+}
+
+a {
+  background-color: #b5838d;
+}
+
+ul {
+  padding-left: 5%;
+}
+
+.social-media-icon {
+  padding-right: 5%;
+  background-color: #b5838d;
+}

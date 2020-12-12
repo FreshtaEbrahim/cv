@@ -1,0 +1,88 @@
+@import url("https://fonts.googleapis.com/css2?family=Roboto&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Anton&display=swap");
+
+.CVEducation {
+  color: black;
+  display: flex;
+  margin: auto;
+  position: relative;
+  background-color: lightgray;
+  width: 65%;
+  flex-direction: row;
+}
+
+/* Left panel */
+
+.CVEducation-title {
+  background-color: lightgray;
+  width: 40%;
+}
+
+.CVEducation-headline {
+  background-color: lightgray;
+  font-family: "Anton", sans-serif;
+  font-size: 1.4em;
+  text-align: end;
+  padding-right: 5%;
+}
+
+.CVEducation-icon {
+  background-color: lightgray;
+  padding-left: 1%;
+}
+
+.CVEducation-role {
+  background-color: lightgray;
+  font-family: "Anton", sans-serif;
+  font-size: 1em;
+  padding-top: 10%;
+  padding-right: 5%;
+  text-align: end;
+}
+
+.CVEducation-role-length {
+  background-color: lightgray;
+  font-family: "Roboto", sans-serif;
+  font-size: 0.8em;
+  text-align: end;
+  padding-right: 5%;
+}
+
+.CVEducation-role2 {
+  background-color: lightgray;
+  font-family: "Anton", sans-serif;
+  font-size: 1em;
+  padding-top: 60%;
+  padding-right: 5%;
+  text-align: end;
+}
+
+.CVEducation-role3 {
+  background-color: lightgray;
+  font-family: "Anton", sans-serif;
+  font-size: 1em;
+  padding-top: 18%;
+  padding-right: 5%;
+  text-align: end;
+}
+
+/* //Right panel */
+
+.CVEducation-text {
+  background-color: white;
+  font-family: "Roboto", sans-serif;
+  width: 60%;
+  padding: 5%;
+}
+
+.CVEducation-header {
+  font-size: 1em;
+  background-color: white;
+  padding-top: 3%;
+}
+
+.CVEducation-body {
+  background-color: white;
+  font-size: 0.9em;
+  padding-bottom: 3%;
+}
