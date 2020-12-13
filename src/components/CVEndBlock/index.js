@@ -5,7 +5,8 @@ export default function CVEndBlock() {
   return (
     <div className="CVEndBlock">
       <div className="CVEndBlock-text">
-        This CV is created in React, available to view here:
+        This CV is created in React, available here:
+        <br />
         <a href="https://freshtaebrahim.github.io/">freshtaebrahim.github.io</a>
       </div>
     </div>
