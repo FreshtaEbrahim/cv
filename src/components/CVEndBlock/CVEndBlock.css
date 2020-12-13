@@ -22,6 +22,10 @@
   /* font-weight: 500; */
 }
 
-a {
+a:link,
+a:visited,
+a:hover,
+a:active {
+  color: black;
   background-color: #b5838d;
 }
