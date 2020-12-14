@@ -22,7 +22,7 @@
 .CVExperience-headline {
   background-color: lightgray;
   font-family: "Anton", sans-serif;
-  font-size: 1.4em;
+  font-size: 1.7vw;
   padding-top: 2%;
   text-align: end;
   padding-right: 5%;
@@ -36,7 +36,7 @@
 .CVExperience-role {
   background-color: lightgray;
   font-family: "Anton", sans-serif;
-  font-size: 1em;
+  font-size: 1.1vw;
   padding-top: 10%;
   padding-right: 5%;
   text-align: end;
@@ -45,16 +45,16 @@
 .CVExperience-role-length {
   background-color: lightgray;
   font-family: "Roboto", sans-serif;
-  font-size: 0.8em;
+  font-size: 1vw;
   text-align: end;
   padding-right: 5%;
-  padding-bottom: 40%;
+  padding-bottom: 63%;
 }
 
 .CVExperience-role2 {
   background-color: lightgray;
   font-family: "Anton", sans-serif;
-  font-size: 1em;
+  font-size: 1.1vw;
   padding-top: 100%;
   padding-right: 5%;
   text-align: end;
@@ -63,7 +63,7 @@
 .CVExperience-role2-length {
   background-color: lightgray;
   font-family: "Roboto", sans-serif;
-  font-size: 0.8em;
+  font-size: 1vw;
   text-align: end;
   padding-right: 5%;
 }
@@ -78,16 +78,21 @@
 }
 
 .CVExperience-header {
-  font-size: 1em;
+  font-size: 1.1vw;
   background-color: white;
   padding-top: 4%;
 }
 
 .CVExperience-body {
   background-color: white;
-  font-size: 0.9em;
+  font-size: 1.1vw;
+  padding-bottom: 3.5%;
 }
 
 b {
+  background-color: white;
+}
+
+i {
   background-color: white;
 }

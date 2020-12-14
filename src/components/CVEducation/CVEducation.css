@@ -21,7 +21,7 @@
 .CVEducation-headline {
   background-color: lightgray;
   font-family: "Anton", sans-serif;
-  font-size: 1.4em;
+  font-size: 1.7vw;
   text-align: end;
   padding-right: 5%;
 }
@@ -34,7 +34,7 @@
 .CVEducation-role {
   background-color: lightgray;
   font-family: "Anton", sans-serif;
-  font-size: 1em;
+  font-size: 1.1vw;
   padding-top: 10%;
   padding-right: 5%;
   text-align: end;
@@ -43,7 +43,7 @@
 .CVEducation-role-length {
   background-color: lightgray;
   font-family: "Roboto", sans-serif;
-  font-size: 0.8em;
+  font-size: 1vw;
   text-align: end;
   padding-right: 5%;
 }
@@ -51,7 +51,7 @@
 .CVEducation-role2 {
   background-color: lightgray;
   font-family: "Anton", sans-serif;
-  font-size: 1em;
+  font-size: 1.1vw;
   padding-top: 60%;
   padding-right: 5%;
   text-align: end;
@@ -60,7 +60,7 @@
 .CVEducation-role3 {
   background-color: lightgray;
   font-family: "Anton", sans-serif;
-  font-size: 1em;
+  font-size: 1.1vw;
   padding-top: 18%;
   padding-right: 5%;
   text-align: end;
@@ -76,13 +76,24 @@
 }
 
 .CVEducation-header {
-  font-size: 1em;
+  font-size: 1.1vw;
   background-color: white;
   padding-top: 3%;
 }
 
+.CVEducation-header2 {
+  font-size: 1.1vw;
+  background-color: white;
+  padding-top: 11%;
+}
+
+.CVEducation-header3 {
+  font-size: 1.1vw;
+  background-color: white;
+  padding-top: 6%;
+}
+
 .CVEducation-body {
   background-color: white;
-  font-size: 0.9em;
-  padding-bottom: 3%;
+  font-size: 1.1vw;
 }

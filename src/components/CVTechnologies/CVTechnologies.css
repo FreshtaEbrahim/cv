@@ -18,7 +18,7 @@
   width: 40%;
   padding-top: 5%;
   font-family: "Anton", sans-serif;
-  font-size: 1.4em;
+  font-size: 1.7vw;
   text-align: end;
 }
 
@@ -37,11 +37,11 @@
   width: 60%;
   padding: 5%;
   padding-top: 6%;
-  font-size: 0.9em;
+  font-size: 1.1vw;
   text-align: center;
 }
 
 svg {
   background-color: white;
-  width: 8%;
+  width: 6%;
 }

@@ -32,11 +32,11 @@ export default function CVEducation() {
           of Moringa oleifera on bacteria associated with urinary tract
           infections.’’
         </p>
-        <h2 className="CVEducation-header">A-Levels</h2>
+        <h2 className="CVEducation-header2">A-Levels</h2>
         <p className="CVEducation-body">
           A-levels in Geography (A), Biology (B) and Chemistry (C).
         </p>
-        <h2 className="CVEducation-header">GCSE’s</h2>
+        <h2 className="CVEducation-header3">GCSE’s</h2>
         <p className="CVEducation-body">
           10 GCSE’s at grades A*-B including Maths, English and Biology.
         </p>

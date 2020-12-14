@@ -22,7 +22,7 @@
 .CVInterests-headline {
   background-color: lightgray;
   font-family: "Anton", sans-serif;
-  font-size: 1.4em;
+  font-size: 1.7vw;
   padding-top: 2%;
   text-align: end;
   padding-right: 5%;
@@ -43,11 +43,11 @@
 }
 
 .CVInterests-header {
-  font-size: 1em;
+  font-size: 1.1vw;
   background-color: white;
 }
 
 .CVInterests-body {
   background-color: white;
-  font-size: 0.9em;
+  font-size: 1.1vw;
 }

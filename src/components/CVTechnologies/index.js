@@ -1,7 +1,18 @@
 import React from "react";
 import "./CVTechnologies.css";
-import { FaTools } from "react-icons/fa";
-import { technologiesIcons } from "../CVExperience/CVExperienceIcons";
+import {
+  FaTools,
+  FaHtml5,
+  FaCss3Alt,
+  FaReact,
+  FaNodeJs,
+  FaGithub,
+  FaTrello,
+  FaFigma,
+} from "react-icons/fa";
+import { DiJavascript1 } from "react-icons/di";
+import { SiFirebase, SiHeroku, SiPostgresql } from "react-icons/si";
+import { VscRegex } from "react-icons/vsc";
 
 export default function CVTechnologies() {
   return (
@@ -11,11 +22,20 @@ export default function CVTechnologies() {
         <FaTools className="CVTechnologies-icon" />
       </div>
       <div className="CVTechnologies-text">
-        HTML5 | CSS | JS (ES6) | React.js | Node.js | Express | SQL | Heroku |
-        Git | GitHub | Firebase | Regex | Figma | Trello
-        <br></br>
-        <br></br>
-        {technologiesIcons}
+        HTML5
+        <FaHtml5 /> CSS
+        <FaCss3Alt /> JS (ES6)
+        <DiJavascript1 /> Node.js
+        <FaNodeJs /> Express.js
+        <br /> React.js
+        <FaReact /> PostgreSQL
+        <SiPostgresql /> Heroku
+        <SiHeroku /> GitHub
+        <FaGithub /> Firebase
+        <SiFirebase /> Regex
+        <VscRegex /> Figma
+        <FaFigma /> Trello
+        <FaTrello />
       </div>
     </div>
   );
