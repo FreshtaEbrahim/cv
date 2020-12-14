@@ -34,7 +34,7 @@
 .CVEducation-role {
   background-color: lightgray;
   font-family: "Anton", sans-serif;
-  font-size: 1.1vw;
+  font-size: 1.2vw;
   padding-top: 10%;
   padding-right: 5%;
   text-align: end;
@@ -51,8 +51,8 @@
 .CVEducation-role2 {
   background-color: lightgray;
   font-family: "Anton", sans-serif;
-  font-size: 1.1vw;
-  padding-top: 60%;
+  font-size: 1.2vw;
+  padding-top: 52%;
   padding-right: 5%;
   text-align: end;
 }
@@ -60,8 +60,8 @@
 .CVEducation-role3 {
   background-color: lightgray;
   font-family: "Anton", sans-serif;
-  font-size: 1.1vw;
-  padding-top: 18%;
+  font-size: 1.2vw;
+  padding-top: 17%;
   padding-right: 5%;
   text-align: end;
 }
@@ -84,7 +84,7 @@
 .CVEducation-header2 {
   font-size: 1.1vw;
   background-color: white;
-  padding-top: 11%;
+  padding-top: 6%;
 }
 
 .CVEducation-header3 {

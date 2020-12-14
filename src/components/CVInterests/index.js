@@ -34,8 +34,8 @@ export default function CVInterests() {
           opportunities to others where and when I can, particularly for
           underrepresented and marginalised groups. Hosting free coding classes
           is something I am looking into continuing, to allow for others to
-          utilise opportunities to code without financial setbacks being an
-          issue.
+          utilise opportunities to learn how to code without financial
+          circumstances being a setback.
         </p>
       </div>
     </div>
