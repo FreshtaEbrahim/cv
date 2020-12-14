@@ -44,7 +44,7 @@
   font-family: "Anton", sans-serif;
   flex-direction: row;
   text-align: center;
-  width: 60%;
+  width: 65%;
 }
 
 .CVHeader-profile-links {
@@ -71,11 +71,7 @@ a {
   background-color: #b5838d;
 }
 
-ul {
-  padding-left: 5%;
-}
-
 .social-media-icon {
-  padding-right: 5%;
+  padding-right: 3%;
   background-color: #b5838d;
 }

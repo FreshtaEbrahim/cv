@@ -36,7 +36,7 @@
 .CVExperience-role {
   background-color: lightgray;
   font-family: "Anton", sans-serif;
-  font-size: 1.2vw;
+  font-size: 1.1vw;
   padding-top: 10%;
   padding-right: 5%;
   text-align: end;
@@ -54,7 +54,7 @@
 .CVExperience-role2 {
   background-color: lightgray;
   font-family: "Anton", sans-serif;
-  font-size: 1.2vw;
+  font-size: 1.1vw;
   padding-top: 100%;
   padding-right: 5%;
   text-align: end;
@@ -86,7 +86,7 @@
 .CVExperience-body {
   background-color: white;
   font-size: 1.1vw;
-  padding-bottom: 4%;
+  padding-bottom: 3.5%;
 }
 
 b {
