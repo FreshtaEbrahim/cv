@@ -15,7 +15,6 @@ export default function CVExperience() {
         <div className="CVExperience-role2">Team Leader</div>
         <div className="CVExperience-role2-length">Oct 2018 - Present</div>
       </div>
-
       <div className="CVExperience-text">
         <h2 className="CVExperience-header">School of Code</h2>
         <p className="CVExperience-body">

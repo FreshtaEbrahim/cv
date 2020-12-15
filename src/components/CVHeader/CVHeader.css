@@ -17,7 +17,7 @@
   background-color: #b5838d;
   flex-direction: row;
   text-align: center;
-  width: 55%;
+  width: 31%;
 }
 
 .CVHeader-avatar {
@@ -43,8 +43,8 @@
   background-color: #b5838d;
   font-family: "Anton", sans-serif;
   flex-direction: row;
-  text-align: center;
-  width: 65%;
+  text-align: left;
+  width: 39%;
 }
 
 .CVHeader-profile-links {
@@ -53,6 +53,8 @@
   font-family: "Roboto", sans-serif;
   font-size: 1.1vw;
   flex-direction: row;
+  /* padding-left: 0%; */
+  width: 30%;
 }
 
 .CVHeader-profile-links a:link,
@@ -69,6 +71,10 @@ li {
 
 a {
   background-color: #b5838d;
+}
+
+ul {
+  padding: 0%;
 }
 
 .social-media-icon {
