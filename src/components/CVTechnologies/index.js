@@ -9,6 +9,8 @@ import {
   FaGithub,
   FaTrello,
   FaFigma,
+  FaJira,
+  FaConfluence,
 } from "react-icons/fa";
 import { DiJavascript1 } from "react-icons/di";
 import { SiFirebase, SiHeroku, SiPostgresql } from "react-icons/si";
@@ -35,7 +37,10 @@ export default function CVTechnologies() {
         <SiFirebase /> Regex
         <VscRegex /> Figma
         <FaFigma /> Trello
-        <FaTrello />
+        <FaTrello /> Confluence
+        <FaConfluence />
+        Jira
+        <FaJira />
       </div>
     </div>
   );
