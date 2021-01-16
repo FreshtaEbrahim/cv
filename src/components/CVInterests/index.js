@@ -1,20 +1,18 @@
-import React from "react";
-import "./CVInterests.css";
-import { ImWoman } from "react-icons/im";
+import React from 'react';
+import { ImWoman } from 'react-icons/im';
+import './CVInterests.css';
 
 export default function CVInterests() {
   return (
-    <div className="CVInterests">
-      <div className="CVInterests-title">
-        <div className="CVInterests-headline">
-          Interests
-          <ImWoman className="CVInterests-icon" />
-        </div>
+    <div className='CVInterests'>
+      <div className='CVInterestsHeader-left'>
+        Interests
+        <ImWoman className='CVInterests-icon' />
       </div>
 
-      <div className="CVInterests-text">
-        <h2 className="CVInterests-header">DJ & Radio Host</h2>
-        <p className="CVInterests-body">
+      <div className='CVInterests-text'>
+        <h2 className='CVInterests-header'>DJ & Radio Host</h2>
+        <p className='CVInterests-body'>
           I’ve spent the last 3 years DJing where I specialise in the
           underground genres of grime, dubstep, bass and club sounds. Alongside
           this, I regularly host my own radio show on global station NTS Radio,
@@ -25,8 +23,8 @@ export default function CVInterests() {
           forthcoming music.
         </p>
         <br></br>
-        <h2 className="CVInterests-header">School of Code Community Class</h2>
-        <p className="CVInterests-body">
+        <h2 className='CVInterests-header'>School of Code Community Class</h2>
+        <p className='CVInterests-body'>
           Me and a handful of my fellow boot campers successfully hosted a 2
           hour 'Introduction to HTML & CSS' class in December 2020. We hosted
           this remote class to 55 participants over Zoom, which included

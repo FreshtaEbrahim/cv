@@ -1,54 +1,60 @@
 @import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Anton&display=swap');
 
-.CVInterests {
-  width: 65%;
-  /* color: black; */
+.CVExperience {
+  color: black;
   display: flex;
   margin: auto;
   /* position: relative; */
-  height: auto;
+  background-color: lightgray;
+  width: 65%;
+  /* flex-direction: row; */
 }
 
-.CVInterests-title {
+/* Left panel */
+
+.CVExperience-title {
   background-color: lightgray;
   width: 34%;
   padding: 4%;
 }
 
-.CVInterestsHeader-left {
+.CVExperience-role {
   background-color: lightgray;
-  width: 34%;
   font-family: 'Anton', sans-serif;
-  font-size: 1.7vw;
-  text-align: right;
-  padding: 4%;
+  font-size: 1.1vw;
+  /* padding-top: 8%;
+  padding-right: 5%; */
+  text-align: end;
+  /* padding: 4%; */
 }
 
-.CVInterests-icon {
+.CVExperience-role-length {
   background-color: lightgray;
-  /* padding-left: 1%; */
+  font-family: 'Roboto', sans-serif;
+  font-size: 1vw;
+  text-align: end;
+  /* padding-right: 5%; */
+  /* padding-bottom: 63%; */
 }
 
-.CVInterestsHeader-right {
-  width: 66%;
-  background-color: whitesmoke;
-}
+/* //Right panel */
 
-.CVInterests-text {
+.CVExperience-text {
   background-color: whitesmoke;
   font-family: 'Roboto', sans-serif;
   width: 66%;
   padding: 4%;
 }
 
-.CVInterests-header {
+.CVExperience-header {
   font-size: 1.1vw;
   background-color: whitesmoke;
   /* padding-top: 4%; */
+  margin: 0%;
 }
 
-.CVInterests-body {
+.CVExperience-body {
   background-color: whitesmoke;
   font-size: 1.1vw;
   /* padding-bottom: 3.5%; */

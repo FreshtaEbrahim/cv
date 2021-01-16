@@ -1,5 +1,5 @@
-@import url("https://fonts.googleapis.com/css2?family=Roboto&display=swap");
-@import url("https://fonts.googleapis.com/css2?family=Anton&display=swap");
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Anton&display=swap');
 
 .CVEducation {
   color: black;
@@ -15,12 +15,13 @@
 
 .CVEducation-title {
   background-color: lightgray;
-  width: 40%;
+  width: 34%;
+  padding: 4%;
 }
 
 .CVEducation-headline {
   background-color: lightgray;
-  font-family: "Anton", sans-serif;
+  font-family: 'Anton', sans-serif;
   font-size: 1.7vw;
   text-align: end;
   padding-right: 5%;
@@ -33,24 +34,26 @@
 
 .CVEducation-role {
   background-color: lightgray;
-  font-family: "Anton", sans-serif;
-  font-size: 1.2vw;
-  padding-top: 10%;
-  padding-right: 5%;
+  font-family: 'Anton', sans-serif;
+  font-size: 1.1vw;
+  /* padding-top: 8%;
+  padding-right: 5%; */
   text-align: end;
+  /* padding: 4%; */
 }
 
 .CVEducation-role-length {
   background-color: lightgray;
-  font-family: "Roboto", sans-serif;
+  font-family: 'Roboto', sans-serif;
   font-size: 1vw;
   text-align: end;
-  padding-right: 5%;
+  /* padding-right: 5%; */
+  /* padding-bottom: 63%; */
 }
 
 .CVEducation-role2 {
   background-color: lightgray;
-  font-family: "Anton", sans-serif;
+  font-family: 'Anton', sans-serif;
   font-size: 1.2vw;
   padding-top: 52%;
   padding-right: 5%;
@@ -59,7 +62,7 @@
 
 .CVEducation-role3 {
   background-color: lightgray;
-  font-family: "Anton", sans-serif;
+  font-family: 'Anton', sans-serif;
   font-size: 1.2vw;
   padding-top: 17%;
   padding-right: 5%;
@@ -69,31 +72,32 @@
 /* //Right panel */
 
 .CVEducation-text {
-  background-color: white;
-  font-family: "Roboto", sans-serif;
-  width: 60%;
-  padding: 5%;
+  background-color: whitesmoke;
+  font-family: 'Roboto', sans-serif;
+  width: 66%;
+  padding: 4%;
 }
 
 .CVEducation-header {
   font-size: 1.1vw;
-  background-color: white;
-  padding-top: 3%;
+  background-color: whitesmoke;
+  /* padding-top: 4%; */
+  margin: 0%;
 }
 
 .CVEducation-header2 {
   font-size: 1.1vw;
-  background-color: white;
+  background-color: whitesmoke;
   padding-top: 6%;
 }
 
 .CVEducation-header3 {
   font-size: 1.1vw;
-  background-color: white;
+  background-color: whitesmoke;
   padding-top: 6%;
 }
 
 .CVEducation-body {
-  background-color: white;
+  background-color: whitesmoke;
   font-size: 1.1vw;
 }

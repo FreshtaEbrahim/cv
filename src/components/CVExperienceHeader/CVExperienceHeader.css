@@ -1,0 +1,29 @@
+.CVExperienceHeader {
+  width: 65%;
+  display: flex;
+  margin: auto;
+  height: auto;
+}
+
+/*Left Panel*/
+
+.CVExperienceHeader-left {
+  background-color: lightgray;
+  width: 34%;
+  font-family: 'Anton', sans-serif;
+  font-size: 1.7vw;
+  text-align: right;
+  padding: 4%;
+}
+
+.CVExperience-icon {
+  background-color: lightgray;
+}
+
+/* //Right panel */
+
+.CVExperienceHeader-right {
+  width: 66%;
+  background-color: whitesmoke;
+  padding: 4%;
+}

@@ -1,49 +1,52 @@
-@import url("https://fonts.googleapis.com/css2?family=Roboto&display=swap");
-@import url("https://fonts.googleapis.com/css2?family=Anton&display=swap");
-
-/* Left panel */
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Anton&display=swap');
 
 .CVReferences {
-  color: black;
+  width: 65%;
+  /* color: black; */
   display: flex;
   margin: auto;
-  position: relative;
-  background-color: lightgray;
-  width: 65%;
-  flex-direction: row;
+  /* position: relative; */
+  height: auto;
 }
 
-.CVReferences-title {
+.CVReferencesHeader-left {
   background-color: lightgray;
-  width: 40%;
-  padding-top: 5%;
-}
-
-.CVReferences-headline {
-  background-color: lightgray;
-  font-family: "Anton", sans-serif;
+  width: 34%;
+  font-family: 'Anton', sans-serif;
   font-size: 1.7vw;
-  padding-top: 2%;
-  text-align: end;
-  padding-right: 5%;
+  text-align: right;
+  padding: 4%;
 }
 
 .CVReferences-icon {
   background-color: lightgray;
-  padding-left: 1%;
+  /* padding-left: 1%; */
 }
 
-/* //Right panel */
+.CVReferencesHeader-right {
+  width: 64%;
+  background-color: whitesmoke;
+}
 
 .CVReferences-text {
-  background-color: white;
-  font-family: "Roboto", sans-serif;
-  width: 60%;
-  padding: 5%;
+  background-color: whitesmoke;
+  font-family: 'Roboto', sans-serif;
+  width: 66%;
+  padding: 4%;
 }
 
 .CVReferences-header {
   font-size: 1.1vw;
-  background-color: white;
-  padding-bottom: 10%;
+  background-color: whitesmoke;
+  /* padding-top: 4%; */
+  margin: 0%;
+}
+
+b {
+  background-color: whitesmoke;
+}
+
+i {
+  background-color: whitesmoke;
 }

@@ -1,25 +1,24 @@
-@import url("https://fonts.googleapis.com/css2?family=Roboto&display=swap");
-@import url("https://fonts.googleapis.com/css2?family=Anton&display=swap");
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Anton&display=swap');
 
 .CVTechnologies {
-  color: black;
+  width: 65%;
+  /* color: black; */
   display: flex;
   margin: auto;
-  position: relative;
-  background-color: lightgray;
-  width: 65%;
-  flex-direction: row;
+  /* position: relative; */
+  height: auto;
 }
 
 /* Left panel */
 
 .CVTechnologies-title {
   background-color: lightgray;
-  width: 40%;
-  padding-top: 5%;
-  font-family: "Anton", sans-serif;
+  width: 34%;
+  font-family: 'Anton', sans-serif;
   font-size: 1.7vw;
-  text-align: end;
+  text-align: right;
+  padding: 4%;
 }
 
 .CVTechnologies-icon {
@@ -32,16 +31,15 @@
 /* Right panel */
 
 .CVTechnologies-text {
-  background-color: white;
-  font-family: "Roboto", sans-serif;
-  width: 60%;
-  padding: 5%;
-  padding-top: 6%;
+  background-color: whitesmoke;
+  font-family: 'Roboto', sans-serif;
+  width: 66%;
+  padding: 4%;
   font-size: 1.1vw;
   text-align: center;
 }
 
 svg {
-  background-color: white;
+  background-color: whitesmoke;
   width: 6%;
 }

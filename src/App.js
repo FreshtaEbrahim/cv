@@ -1,13 +1,13 @@
-import React from "react";
-import CVHeader from "./components/CVHeader";
-import CVBio from "./components/CVBio";
-import CVTechnologies from "./components/CVTechnologies";
-import CVExperience from "./components/CVExperience";
-import CVEducation from "./components/CVEducation";
-import CVInterests from "./components/CVInterests";
-import CVReferences from "./components/CVReferences";
-import CVEndBlock from "./components/CVEndBlock";
-import "./App.css";
+import React from 'react';
+import CVHeader from './components/CVHeader';
+import CVBio from './components/CVBio';
+import CVTechnologies from './components/CVTechnologies';
+import CVReferences from './components/CVReferences';
+import CVEndBlock from './components/CVEndBlock';
+import './App.css';
+import CVExperienceHeader from './components/CVExperienceHeader';
+import CVEducationHeader from './components/CVEducationHeader';
+import CVInterests from './components/CVInterests';
 
 export default function App() {
   return (
@@ -15,8 +15,8 @@ export default function App() {
       <CVHeader />
       <CVBio />
       <CVTechnologies />
-      <CVExperience />
-      <CVEducation />
+      <CVExperienceHeader />
+      <CVEducationHeader />
       <CVInterests />
       <CVReferences />
       <CVEndBlock />

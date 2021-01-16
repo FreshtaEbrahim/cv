@@ -1,5 +1,5 @@
-import React from "react";
-import "./CVTechnologies.css";
+import React from 'react';
+import './CVTechnologies.css';
 import {
   FaTools,
   FaHtml5,
@@ -11,19 +11,20 @@ import {
   FaFigma,
   FaJira,
   FaConfluence,
-} from "react-icons/fa";
-import { DiJavascript1 } from "react-icons/di";
-import { SiFirebase, SiHeroku, SiPostgresql } from "react-icons/si";
-import { VscRegex } from "react-icons/vsc";
+} from 'react-icons/fa';
+import { DiJavascript1 } from 'react-icons/di';
+import { SiFirebase, SiHeroku, SiPostgresql } from 'react-icons/si';
+import { VscRegex } from 'react-icons/vsc';
+import { IoLogoVercel } from 'react-icons/io5';
 
 export default function CVTechnologies() {
   return (
-    <div className="CVTechnologies">
-      <div className="CVTechnologies-title">
+    <div className='CVTechnologies'>
+      <div className='CVTechnologies-title'>
         Tools & Technologies
-        <FaTools className="CVTechnologies-icon" />
+        <FaTools className='CVTechnologies-icon' />
       </div>
-      <div className="CVTechnologies-text">
+      <div className='CVTechnologies-text'>
         HTML5
         <FaHtml5 /> CSS
         <FaCss3Alt /> JS (ES6)
@@ -32,7 +33,8 @@ export default function CVTechnologies() {
         <br /> React.js
         <FaReact /> PostgreSQL
         <SiPostgresql /> Heroku
-        <SiHeroku /> GitHub
+        <SiHeroku /> Vercel
+        <IoLogoVercel /> GitHub
         <FaGithub /> Firebase
         <SiFirebase /> Regex
         <VscRegex /> Figma

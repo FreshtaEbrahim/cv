@@ -1,0 +1,28 @@
+.CVEducationHeader {
+  width: 65%;
+  /* color: black; */
+  display: flex;
+  margin: auto;
+  /* position: relative; */
+  height: auto;
+}
+
+.CVEducationHeader-left {
+  background-color: lightgray;
+  width: 34%;
+  font-family: 'Anton', sans-serif;
+  font-size: 1.7vw;
+  text-align: right;
+  padding: 4%;
+}
+
+.CVEducation-icon {
+  background-color: lightgray;
+  /* padding-left: 1%; */
+}
+
+.CVEducationHeader-right {
+  width: 66%;
+  background-color: whitesmoke;
+  padding: 4%;
+}

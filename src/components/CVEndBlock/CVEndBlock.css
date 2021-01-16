@@ -1,25 +1,23 @@
-@import url("https://fonts.googleapis.com/css2?family=Roboto&display=swap");
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
 
 .CVEndBlock {
   color: black;
   display: flex;
   margin: auto;
   align-items: center;
-  position: relative;
   background-color: #b5838d;
-  height: 100px;
+  height: 15vh;
   width: 65%;
   flex-direction: row;
 }
 
 .CVEndBlock-text {
-  font-family: "Roboto", sans-serif;
+  font-family: 'Roboto', sans-serif;
   font-size: 1.1vw;
   background-color: #b5838d;
   text-align: end;
   margin-left: 65%;
   margin-top: 5%;
-  /* font-weight: 500; */
 }
 
 a:link,
