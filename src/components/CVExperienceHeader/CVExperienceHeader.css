@@ -13,17 +13,17 @@
   font-family: 'Anton', sans-serif;
   font-size: 1.7vw;
   text-align: right;
-  padding: 4%;
+  padding: 5%;
 }
 
 .CVExperience-icon {
   background-color: lightgray;
 }
 
-/* //Right panel */
+/* Right panel */
 
 .CVExperienceHeader-right {
   width: 66%;
   background-color: whitesmoke;
-  padding: 4%;
+  padding: 5%;
 }

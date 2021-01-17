@@ -1,6 +1,6 @@
 @import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
 
-.CVEndBlock {
+.CVFooter {
   color: black;
   display: flex;
   margin: auto;
@@ -11,7 +11,7 @@
   flex-direction: row;
 }
 
-.CVEndBlock-text {
+.CVFooter-text {
   font-family: 'Roboto', sans-serif;
   font-size: 1.1vw;
   background-color: #b5838d;

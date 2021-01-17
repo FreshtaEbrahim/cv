@@ -3,17 +3,15 @@
 
 .CVInterests {
   width: 65%;
-  /* color: black; */
   display: flex;
   margin: auto;
-  /* position: relative; */
   height: auto;
 }
 
 .CVInterests-title {
   background-color: lightgray;
   width: 34%;
-  padding: 4%;
+  padding: 5%;
 }
 
 .CVInterestsHeader-left {
@@ -22,42 +20,27 @@
   font-family: 'Anton', sans-serif;
   font-size: 1.7vw;
   text-align: right;
-  padding: 4%;
+  padding: 5%;
 }
 
 .CVInterests-icon {
   background-color: lightgray;
-  /* padding-left: 1%; */
-}
-
-.CVInterestsHeader-right {
-  width: 66%;
-  background-color: whitesmoke;
 }
 
 .CVInterests-text {
   background-color: whitesmoke;
   font-family: 'Roboto', sans-serif;
   width: 66%;
-  padding: 4%;
+  padding: 5%;
 }
 
 .CVInterests-header {
   font-size: 1.1vw;
   background-color: whitesmoke;
-  /* padding-top: 4%; */
+  margin: 0%;
 }
 
 .CVInterests-body {
   background-color: whitesmoke;
   font-size: 1.1vw;
-  /* padding-bottom: 3.5%; */
-}
-
-b {
-  background-color: whitesmoke;
-}
-
-i {
-  background-color: whitesmoke;
 }

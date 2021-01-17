@@ -16,13 +16,15 @@
   font-family: 'Anton', sans-serif;
   font-size: 1.7vw;
   text-align: right;
-  padding: 4%;
+  padding: 5%;
 }
 
 .CVReferences-icon {
   background-color: lightgray;
   /* padding-left: 1%; */
 }
+
+/* Right side */
 
 .CVReferencesHeader-right {
   width: 64%;
@@ -33,7 +35,7 @@
   background-color: whitesmoke;
   font-family: 'Roboto', sans-serif;
   width: 66%;
-  padding: 4%;
+  padding: 5%;
 }
 
 .CVReferences-header {

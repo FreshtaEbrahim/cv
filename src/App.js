@@ -3,7 +3,7 @@ import CVHeader from './components/CVHeader';
 import CVBio from './components/CVBio';
 import CVTechnologies from './components/CVTechnologies';
 import CVReferences from './components/CVReferences';
-import CVEndBlock from './components/CVEndBlock';
+import CVFooter from './components/CVFooter';
 import './App.css';
 import CVExperienceHeader from './components/CVExperienceHeader';
 import CVEducationHeader from './components/CVEducationHeader';
@@ -19,7 +19,7 @@ export default function App() {
       <CVEducationHeader />
       <CVInterests />
       <CVReferences />
-      <CVEndBlock />
+      <CVFooter />
     </>
   );
 }

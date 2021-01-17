@@ -24,46 +24,43 @@ export default function CVExperience() {
             into my first technology role. School of Code projects include:
             <br />
             <br />
-            Noughts & Crosses - A game built in React.js for two players,
-            remotely programmed in one day by myself and my pair programming
-            partner. We created our own Noughts & Crosses game, including a
-            scoreboard, using stateful components, and designed using CSS.
+            <b>The Mentorship Diary</b> - A full stack web application to
+            improve the SoC Mentorship Experience. The project was implemented
+            over a tight 3 day deadline while following agile principles and
+            methodologies. Technologies used were:
+            <br />
+            <li>React.js</li>
+            <li>Node.js</li>
+            <li>PostgreSQL</li>
+            <li>Heroku</li>
+            <li>GitHub</li>
+            <li>Firebase Authentication</li>
             <br />
             <br />
-            The Mentorship Diary - A full-stack web application with the aim to
-            improve the SoC Mentorship Experience. Built in 3 days in a remote
-            team of 4, The Mentorship Diary was created to solve the problem of
-            lack of structure and guidance in the SoC Mentorship Experience. The
-            web application is platform where future SoC boot campers can
-            discuss and record their weekly achievements during mentor meetings.
-            We used Node.js, PostgreSQL and Heroku to build the back end,
-            React.js for the front end and Git as version control. We also used
-            Firebase for our login authentication that was linked to our SQL
-            database, and we were able to implement agile methodologies through
-            stand-ups and retrospectives to even a 3-day project.
+            <b>Progress Plus</b> - A full stack web application to provide a
+            solution for Soc boot campers not being able to track their techncal
+            progress. Over 4 weeks, myself and 5 other developers built an
+            application where SoC boot campers can view their qualitative and
+            quantitative results provided by SoC coaches. We took to
+            understanding the user's needs through user personas and stories,
+            and linked these to wireframes. We used a GitFlow branching method
+            which tied into our tickets assigned on Jira and worked in 3-5 day
+            sprints. Technologies included:
+            <br />
+            <li>Next.js</li>
+            <li>Node.js</li>
+            <li>Express.js</li>
+            <li>PostgreSQL</li>
+            <li>Heroku</li>
+            <li>Semantic UI</li>
+            <li>Vercel</li>
+            <li>GitHub</li>
+            <li>Firebase Authentication</li>
+            <li>Jira</li>
+            <li>Confluence</li>
+            <li>Trello</li>
+            <li>Cypress.io</li>
           </p>
-          {/* <h2 className='CVExperience-header'>Co-Op</h2>
-          <p className='CVExperience-body'>
-            As Team Leader, I am responsible for managing staff, maintaining
-            inventory and overall entail activities to minimise costs whilst
-            maximising profit. This is a heavily customer-facing role in which
-            customer satisfaction is the main priority. This role has shaped my
-            leadership skills through successfully managing teams to complete
-            team tasks and reach daily goals.
-            <br />
-            <br />
-            Supporting local grassroots communities and causes is an integral
-            part of the wider business, as well as an important part of my
-            personal self too. I undertook the responsibility of supporting
-            local causes in Birmingham through organising community funds for
-            charities and customers who make a positive difference in society. A
-            recent example of this was working with 'We Go Outside Too', a local
-            charity encouraging the young black community to improve their
-            mental health through enjoying nature and exercise. We were able to
-            support and sponsor their next day trip with the Co-Op community
-            fund, where they organised a day to take a group of young people for
-            a waterfall hike.
-          </p> */}
         </div>
       </div>
       <CVExperience2 />

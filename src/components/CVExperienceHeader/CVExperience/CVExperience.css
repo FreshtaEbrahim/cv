@@ -2,13 +2,10 @@
 @import url('https://fonts.googleapis.com/css2?family=Anton&display=swap');
 
 .CVExperience {
-  color: black;
   display: flex;
   margin: auto;
-  /* position: relative; */
   background-color: lightgray;
   width: 65%;
-  /* flex-direction: row; */
 }
 
 /* Left panel */
@@ -16,17 +13,14 @@
 .CVExperience-title {
   background-color: lightgray;
   width: 34%;
-  padding: 4%;
+  padding: 5%;
 }
 
 .CVExperience-role {
   background-color: lightgray;
   font-family: 'Anton', sans-serif;
-  font-size: 1.1vw;
-  /* padding-top: 8%;
-  padding-right: 5%; */
+  font-size: 1.2vw;
   text-align: end;
-  /* padding: 4%; */
 }
 
 .CVExperience-role-length {
@@ -34,8 +28,6 @@
   font-family: 'Roboto', sans-serif;
   font-size: 1vw;
   text-align: end;
-  /* padding-right: 5%; */
-  /* padding-bottom: 63%; */
 }
 
 /* //Right panel */
@@ -44,26 +36,21 @@
   background-color: whitesmoke;
   font-family: 'Roboto', sans-serif;
   width: 66%;
-  padding: 4%;
+  padding: 5%;
 }
 
 .CVExperience-header {
   font-size: 1.1vw;
   background-color: whitesmoke;
-  /* padding-top: 4%; */
   margin: 0%;
 }
 
 .CVExperience-body {
   background-color: whitesmoke;
   font-size: 1.1vw;
-  /* padding-bottom: 3.5%; */
 }
 
-b {
+li {
   background-color: whitesmoke;
-}
-
-i {
-  background-color: whitesmoke;
+  color: black;
 }

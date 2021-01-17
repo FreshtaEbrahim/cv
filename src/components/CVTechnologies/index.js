@@ -25,24 +25,24 @@ export default function CVTechnologies() {
         <FaTools className='CVTechnologies-icon' />
       </div>
       <div className='CVTechnologies-text'>
-        HTML5
-        <FaHtml5 /> CSS
-        <FaCss3Alt /> JS (ES6)
-        <DiJavascript1 /> Node.js
-        <FaNodeJs /> Express.js
-        <br /> React.js
-        <FaReact /> PostgreSQL
-        <SiPostgresql /> Heroku
-        <SiHeroku /> Vercel
-        <IoLogoVercel /> GitHub
-        <FaGithub /> Firebase
-        <SiFirebase /> Regex
-        <VscRegex /> Figma
-        <FaFigma /> Trello
-        <FaTrello /> Confluence
-        <FaConfluence />
+        React.js
+        <FaReact className='CVTechnologies-icon-list' /> Node.js
+        <FaNodeJs className='CVTechnologies-icon-list' /> Express.js
+        <br /> HTML5
+        <FaHtml5 className='CVTechnologies-icon-list' /> CSS
+        <FaCss3Alt className='CVTechnologies-icon-list' /> JavaScript ES6
+        <DiJavascript1 className='CVTechnologies-icon-list' />
+        PostgreSQL <SiPostgresql className='CVTechnologies-icon-list' /> Heroku
+        <SiHeroku className='CVTechnologies-icon-list' /> Vercel
+        <IoLogoVercel className='CVTechnologies-icon-list' /> GitHub
+        <FaGithub className='CVTechnologies-icon-list' /> Firebase
+        <SiFirebase className='CVTechnologies-icon-list' /> Regex
+        <VscRegex className='CVTechnologies-icon-list' /> Figma
+        <FaFigma className='CVTechnologies-icon-list' /> Trello
+        <FaTrello className='CVTechnologies-icon-list' /> Confluence
+        <FaConfluence className='CVTechnologies-icon-list' />
         Jira
-        <FaJira />
+        <FaJira className='CVTechnologies-icon-list' /> Cypress.io
       </div>
     </div>
   );
