@@ -31,9 +31,9 @@ export default function CVInterests() {
           lectures and workshops. It's extremely important to me to provide free
           opportunities to others where and when I can, particularly for
           underrepresented and marginalised groups. Hosting free coding classes
-          is something I am looking into continuing, to allow for
-          underrepresented and marginalised groups to utilise opportunities to
-          learn how to code without financial circumstances being a setback.
+          is something I am looking into continuing, to allow for others to
+          utilise opportunities to learn how to code without financial
+          circumstances being a setback.
         </p>
       </div>
     </div>
