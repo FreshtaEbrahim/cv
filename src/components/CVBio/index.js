@@ -8,7 +8,7 @@ export default function CVBio() {
         A Full Stack Software Engineer specialising in JavaScript technologies
         and agile team collaboration. My affinity lies in using code to create
         solutions to real life problems. If I'm not doing that, you'll find me
-        hosting radio shows, broadcasted on global radio station NTS and
+        hosting radio shows broadcasted on global radio stations NTS and
         Foundation FM.
       </p>
     </div>
