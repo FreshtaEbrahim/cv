@@ -29,12 +29,12 @@ export default function CVExperience() {
             over a tight 3 day deadline while following agile principles and
             methodologies. Technologies used were:
             <br />
-            <li>React.js</li>
-            <li>Node.js</li>
-            <li>PostgreSQL</li>
-            <li>Heroku</li>
-            <li>GitHub</li>
-            <li>Firebase Authentication</li>
+            <li className='CVExperience-techstack'>React.js</li>
+            <li className='CVExperience-techstack'>Node.js</li>
+            <li className='CVExperience-techstack'>PostgreSQL</li>
+            <li className='CVExperience-techstack'>Heroku</li>
+            <li className='CVExperience-techstack'>GitHub</li>
+            <li className='CVExperience-techstack'>Firebase Authentication</li>
             <br />
             <br />
             <b>Progress Plus</b> - A full stack web application to provide a
@@ -47,19 +47,18 @@ export default function CVExperience() {
             which tied into our tickets assigned on Jira and worked in 3-5 day
             sprints. Technologies included:
             <br />
-            <li>Next.js</li>
-            <li>Node.js</li>
-            <li>Express.js</li>
-            <li>PostgreSQL</li>
-            <li>Heroku</li>
-            <li>Semantic UI</li>
-            <li>Vercel</li>
-            <li>GitHub</li>
-            <li>Firebase Authentication</li>
-            <li>Jira</li>
-            <li>Confluence</li>
-            <li>Trello</li>
-            <li>Cypress.io</li>
+            <li className='CVExperience-techstack'>Next.js</li>
+            <li className='CVExperience-techstack'>Node.js</li>
+            <li className='CVExperience-techstack'>Express.js</li>
+            <li className='CVExperience-techstack'>PostgreSQL</li>
+            <li className='CVExperience-techstack'>Heroku</li>
+            <li className='CVExperience-techstack'>Vercel</li>
+            <li className='CVExperience-techstack'>GitHub</li>
+            <li className='CVExperience-techstack'>Firebase Authentication</li>
+            <li className='CVExperience-techstack'>Jira</li>
+            <li className='CVExperience-techstack'>Confluence</li>
+            <li className='CVExperience-techstack'>Trello</li>
+            <li className='CVExperience-techstack'>Cypress.io</li>
           </p>
         </div>
       </div>

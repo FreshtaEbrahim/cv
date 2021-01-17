@@ -1,5 +1,5 @@
-@import url("https://fonts.googleapis.com/css2?family=Anton&display=swap");
-@import url("https://fonts.googleapis.com/css2?family=Roboto&display=swap");
+@import url('https://fonts.googleapis.com/css2?family=Anton&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
 
 .CVHeader {
   color: black;
@@ -41,7 +41,7 @@
 .CVHeader-fullname {
   font-size: 3.1vw;
   background-color: #b5838d;
-  font-family: "Anton", sans-serif;
+  font-family: 'Anton', sans-serif;
   flex-direction: row;
   text-align: left;
   width: 39%;
@@ -50,10 +50,9 @@
 .CVHeader-profile-links {
   color: black;
   background-color: #b5838d;
-  font-family: "Roboto", sans-serif;
+  font-family: 'Roboto', sans-serif;
   font-size: 1.1vw;
   flex-direction: row;
-  /* padding-left: 0%; */
   width: 30%;
 }
 
@@ -65,16 +64,11 @@ a:active {
 }
 
 li {
-  background-color: #b5838d;
-  color: #b5838d;
+  background-color: #b5838d !important;
 }
 
 a {
   background-color: #b5838d;
-}
-
-ul {
-  padding: 0%;
 }
 
 .social-media-icon {

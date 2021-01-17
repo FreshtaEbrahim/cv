@@ -50,7 +50,7 @@
   font-size: 1.1vw;
 }
 
-li {
-  background-color: whitesmoke;
+.CVExperience-techstack {
+  background-color: whitesmoke !important;
   color: black;
 }
