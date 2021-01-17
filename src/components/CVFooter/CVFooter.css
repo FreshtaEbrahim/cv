@@ -4,11 +4,11 @@
   color: black;
   display: flex;
   margin: auto;
-  align-items: center;
+  /* align-items: center; */
   background-color: #b5838d;
-  height: 15vh;
+  height: auto;
   width: 65%;
-  flex-direction: row;
+  /* flex-direction: row; */
 }
 
 .CVFooter-text {
@@ -17,7 +17,7 @@
   background-color: #b5838d;
   text-align: end;
   margin-left: 65%;
-  margin-top: 5%;
+  padding: 4%;
 }
 
 a:link,
