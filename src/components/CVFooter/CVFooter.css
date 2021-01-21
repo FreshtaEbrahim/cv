@@ -4,11 +4,9 @@
   color: black;
   display: flex;
   margin: auto;
-  /* align-items: center; */
   background-color: #b5838d;
   height: auto;
   width: 65%;
-  /* flex-direction: row; */
 }
 
 .CVFooter-text {

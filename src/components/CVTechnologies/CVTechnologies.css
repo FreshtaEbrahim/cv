@@ -16,7 +16,8 @@
   font-family: 'Anton', sans-serif;
   font-size: 1.7vw;
   text-align: right;
-  padding: 5%;
+  padding: 3%;
+  padding-top: 5%;
 }
 
 .CVTechnologies-icon {
@@ -29,7 +30,8 @@
   background-color: whitesmoke;
   font-family: 'Roboto', sans-serif;
   width: 66%;
-  padding: 5%;
+  padding: 3%;
+  padding-top: 5%;
   font-size: 1.1vw;
   text-align: center;
 }

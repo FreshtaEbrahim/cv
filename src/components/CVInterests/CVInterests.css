@@ -11,7 +11,7 @@
 .CVInterests-title {
   background-color: lightgray;
   width: 34%;
-  padding: 5%;
+  padding: 3%;
 }
 
 .CVInterestsHeader-left {
@@ -20,7 +20,7 @@
   font-family: 'Anton', sans-serif;
   font-size: 1.7vw;
   text-align: right;
-  padding: 5%;
+  padding: 3%;
 }
 
 .CVInterests-icon {
@@ -31,7 +31,7 @@
   background-color: whitesmoke;
   font-family: 'Roboto', sans-serif;
   width: 66%;
-  padding: 5%;
+  padding: 3%;
 }
 
 .CVInterests-header {

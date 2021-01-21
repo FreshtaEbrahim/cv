@@ -3,10 +3,8 @@
 
 .CVReferences {
   width: 65%;
-  /* color: black; */
   display: flex;
   margin: auto;
-  /* position: relative; */
   height: auto;
 }
 
@@ -16,12 +14,12 @@
   font-family: 'Anton', sans-serif;
   font-size: 1.7vw;
   text-align: right;
-  padding: 5%;
+  padding: 3%;
+  padding-bottom: 4%;
 }
 
 .CVReferences-icon {
   background-color: lightgray;
-  /* padding-left: 1%; */
 }
 
 /* Right side */
@@ -35,20 +33,12 @@
   background-color: whitesmoke;
   font-family: 'Roboto', sans-serif;
   width: 66%;
-  padding: 5%;
+  padding: 3%;
+  padding-bottom: 4%;
 }
 
 .CVReferences-header {
   font-size: 1.1vw;
   background-color: whitesmoke;
-  /* padding-top: 4%; */
   margin: 0%;
-}
-
-b {
-  background-color: whitesmoke;
-}
-
-i {
-  background-color: whitesmoke;
 }

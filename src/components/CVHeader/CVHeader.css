@@ -6,10 +6,10 @@
   display: flex;
   margin: auto;
   align-items: center;
-  position: relative;
+  /* position: relative; */
   background-color: #b5838d;
   width: 65%;
-  flex-direction: row;
+  /* flex-direction: row; */
   padding-top: 3%;
 }
 
@@ -26,7 +26,7 @@
   background-color: #b5838d;
   animation: rotation 12s infinite linear;
   max-width: 100%;
-  height: auto;
+  /* height: auto; */
 }
 
 @keyframes rotation {
@@ -42,9 +42,10 @@
   font-size: 3.1vw;
   background-color: #b5838d;
   font-family: 'Anton', sans-serif;
-  flex-direction: row;
-  text-align: left;
-  width: 39%;
+  /* flex-direction: row; */
+  /* text-align: left; */
+  width: auto;
+  padding: 1%;
 }
 
 .CVHeader-profile-links {

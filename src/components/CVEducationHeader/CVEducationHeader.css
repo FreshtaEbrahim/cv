@@ -13,7 +13,7 @@
   font-family: 'Anton', sans-serif;
   font-size: 1.7vw;
   text-align: right;
-  padding: 5%;
+  padding: 3%;
 }
 
 .CVEducation-icon {
@@ -23,5 +23,5 @@
 .CVEducationHeader-right {
   width: 66%;
   background-color: whitesmoke;
-  padding: 5%;
+  padding: 3%;
 }
