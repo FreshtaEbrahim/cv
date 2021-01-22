@@ -42,10 +42,10 @@
   font-size: 3.1vw;
   background-color: #b5838d;
   font-family: 'Anton', sans-serif;
-  /* flex-direction: row; */
-  /* text-align: left; */
-  width: auto;
-  padding: 1%;
+  flex-direction: row;
+  /* text-align: center; */
+  width: 40%;
+  position: relative;
 }
 
 .CVHeader-profile-links {
@@ -55,6 +55,7 @@
   font-size: 1.1vw;
   flex-direction: row;
   width: 30%;
+  padding: 0%;
 }
 
 .CVHeader-profile-links a:link,

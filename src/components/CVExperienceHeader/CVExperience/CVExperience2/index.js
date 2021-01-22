@@ -12,10 +12,11 @@ export default function CVExperience2() {
         <h2 className='CVExperience-header'>Co-Op</h2>
         <p className='CVExperience-body'>
           As Team Leader, I am responsible for managing staff, maintaining
-          inventory and entail activities to minimise costs whilst maximising
-          profit. This is a heavily customer-facing role in which customer
-          satisfaction is the main priority. This role has shaped my leadership
-          skills through successfully managing teams to reach daily goals.
+          inventory and overall entail activities to minimise costs whilst
+          maximising profit. This is a heavily customer-facing role in which
+          customer satisfaction is the main priority. This role has shaped my
+          leadership skills through successfully managing teams to reach daily
+          goals.
           <br />
           <br />
           Supporting local grassroots communities and causes is an integral part
@@ -29,6 +30,8 @@ export default function CVExperience2() {
           they organised a day to take a group of young people for a waterfall
           hike.
         </p>
+        <br />
+        <br />
       </div>
     </div>
   );

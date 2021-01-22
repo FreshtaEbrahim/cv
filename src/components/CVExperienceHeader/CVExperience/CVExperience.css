@@ -13,7 +13,7 @@
 .CVExperience-title {
   background-color: lightgray;
   width: 34%;
-  padding: 3%;
+  padding: 4%;
 }
 
 .CVExperience-role {
@@ -36,7 +36,7 @@
   background-color: whitesmoke;
   font-family: 'Roboto', sans-serif;
   width: 66%;
-  padding: 3%;
+  padding: 4%;
 }
 
 .CVExperience-header {
@@ -51,10 +51,17 @@
 }
 
 .CVExperience-techstack {
-  background-color: whitesmoke !important;
-  color: black !important;
+  background-color: whitesmoke;
+  color: black;
+  text-align: center;
+  font-size: 1.1vw;
 }
 
 b {
   background-color: whitesmoke;
+}
+
+.CVTechnologies-icon-list {
+  background-color: whitesmoke;
+  width: 5%;
 }
