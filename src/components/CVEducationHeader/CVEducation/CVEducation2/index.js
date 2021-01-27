@@ -1,4 +1,10 @@
 import React from 'react';
+import {
+  CVEducationSixthForm,
+  CVEducationSixthFormLength,
+  CVEducationSixthFormQual,
+  CVEducationSixthFormResults,
+} from '../../../../textContent';
 import CVEducation3 from './CVEducation3';
 
 export default function CVEducation2() {
@@ -6,15 +12,15 @@ export default function CVEducation2() {
     <>
       <div className='CVEducation'>
         <div className='CVEducation-title'>
-          <div className='CVEducation-role'>Twyford CofE Sixth Form</div>
-          <div className='CVEducation-role-length'>Sep 2013 - July 2015</div>
+          <div className='CVEducation-role'>{CVEducationSixthForm}</div>
+          <div className='CVEducation-role-length'>
+            {CVEducationSixthFormLength}
+          </div>
         </div>
 
         <div className='CVEducation-text'>
-          <h2 className='CVEducation-header'>A-Levels</h2>
-          <p className='CVEducation-body'>
-            A-levels in Geography (A), Biology (B) and Chemistry (C).
-          </p>
+          <h2 className='CVEducation-header'>{CVEducationSixthFormQual}</h2>
+          <p className='CVEducation-body'>{CVEducationSixthFormResults}</p>
         </div>
       </div>
       <CVEducation3 />

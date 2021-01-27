@@ -65,16 +65,16 @@ a:active {
   color: black;
 }
 
-li {
+/* li {
   background-color: #b5838d !important;
   color: #b5838d !important;
-}
+} */
 
-a {
+/* a {
   background-color: #b5838d;
-}
+} */
 
-.social-media-icon {
+.CVHeader-icon-list {
+  width: 6%;
   padding-right: 3%;
-  background-color: #b5838d;
 }

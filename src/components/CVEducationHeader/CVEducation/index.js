@@ -1,4 +1,9 @@
 import React from 'react';
+import {
+  CVEducationUni,
+  CVEducationUniDegree,
+  CVEducationUniLength,
+} from '../../../textContent';
 import './CVEducation.css';
 import CVEducation2 from './CVEducation2';
 
@@ -7,12 +12,12 @@ export default function CVEducation() {
     <>
       <div className='CVEducation'>
         <div className='CVEducation-title'>
-          <div className='CVEducation-role'>Coventry University</div>
-          <div className='CVEducation-role-length'>Sep 2015 - July 2019</div>
+          <div className='CVEducation-role'>{CVEducationUni}</div>
+          <div className='CVEducation-role-length'>{CVEducationUniLength}</div>
         </div>
 
         <div className='CVEducation-text'>
-          <h2 className='CVEducation-header'>BSc (Hons) Human Biosciences</h2>
+          <h2 className='CVEducation-header'>{CVEducationUniDegree}</h2>
           <p className='CVEducation-body'>
             Classification: 2:1
             <br />

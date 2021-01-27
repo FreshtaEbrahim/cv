@@ -61,7 +61,12 @@ b {
   background-color: whitesmoke;
 }
 
-.CVTechnologies-icon-list {
+.CVExperience-icon-name {
   background-color: whitesmoke;
-  width: 5%;
+}
+
+.CVExperience-icon-list {
+  background-color: whitesmoke;
+  width: 6%;
+  padding-right: 1%;
 }

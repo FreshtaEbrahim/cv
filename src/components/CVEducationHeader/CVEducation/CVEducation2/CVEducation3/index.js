@@ -1,18 +1,24 @@
 import React from 'react';
+import {
+  CVEducationHighSchool,
+  CVEducationHighSchoolLength,
+  CVEducationHighSchoolQual,
+  CVEducationHighSchoolResults,
+} from '../../../../../textContent';
 
 export default function CVEducation3() {
   return (
     <div className='CVEducation'>
       <div className='CVEducation-title'>
-        <div className='CVEducation-role'>Twyford CofE High School</div>
-        <div className='CVEducation-role-length'>Sep 2008 - July 2013</div>
+        <div className='CVEducation-role'>{CVEducationHighSchool}</div>
+        <div className='CVEducation-role-length'>
+          {CVEducationHighSchoolLength}
+        </div>
       </div>
 
       <div className='CVEducation-text'>
-        <h2 className='CVEducation-header'>GCSE’s</h2>
-        <p className='CVEducation-body'>
-          10 GCSE’s at grades A*-B including Maths, English and Biology.
-        </p>
+        <h2 className='CVEducation-header'>{CVEducationHighSchoolQual}</h2>
+        <p className='CVEducation-body'>{CVEducationHighSchoolResults}</p>
       </div>
     </div>
   );
