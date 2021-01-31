@@ -33,13 +33,13 @@ export const CVTechnologiesIconList = [
     name: 'Vercel',
     icon: <IoLogoVercel className='CVTechnologies-icon-list' />,
   },
-  { name: 'GitHub', icon: <FaGithub className='CVTechnologies-icon-list' /> },
   {
     name: 'Firebase',
     icon: <SiFirebase className='CVTechnologies-icon-list' />,
   },
   { name: 'Docker', icon: <FaDocker className='CVTechnologies-icon-list' /> },
   { name: 'AWS', icon: <FaAws className='CVTechnologies-icon-list' /> },
+  { name: 'GitHub', icon: <FaGithub className='CVTechnologies-icon-list' /> },
   { name: 'Figma', icon: <FaFigma className='CVTechnologies-icon-list' /> },
   { name: 'Trello', icon: <FaTrello className='CVTechnologies-icon-list' /> },
   {
